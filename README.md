@@ -1,4 +1,6 @@
-# Automated Report Generation Using Python
+
+
+[final_report.pdf](https://github.com/user-attachments/files/28097254/final_report.pdf)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue) ![ReportLab](https://img.shields.io/badge/ReportLab-4.x-blue) ![Pandas](https://img.shields.io/badge/Pandas-2.x-green) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-orange) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
@@ -89,4 +91,4 @@ Run the script
 ## Author
 
 Newbie0505
-Internship Project — 2025
+Internship Project — 2026
