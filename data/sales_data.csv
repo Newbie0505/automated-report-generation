@@ -1,0 +1,13 @@
+Month,Product,Units_Sold,Revenue,Expenses,Profit,Region
+January,Laptop,120,144000,95000,49000,North
+January,Mobile,350,87500,52000,35500,South
+February,Laptop,135,162000,98000,64000,North
+February,Mobile,420,105000,60000,45000,East
+March,Laptop,98,117600,88000,29600,West
+March,Mobile,510,127500,70000,57500,South
+April,Laptop,160,192000,105000,87000,North
+April,Mobile,390,97500,58000,39500,East
+May,Laptop,145,174000,100000,74000,West
+May,Mobile,480,120000,65000,55000,North
+June,Laptop,175,210000,112000,98000,South
+June,Mobile,530,132500,72000,60500,East
