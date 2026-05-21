@@ -1,5 +1,20 @@
+#Title: AUTOMATED REPORT GENERATION
 
+#Subtitle: A Python script that reads CSV data, analyzes it with Pandas, generates charts with Matplotlib, and creates a formatted PDF report using ReportLab.
 
+#Name: Ankush Dhanokar
+
+#Intern ID: CTIS9672
+
+#Company: Codtech IT Solutions
+
+#Domain: Python Programming
+
+#Duration: 12 Weeks
+
+#Mentor: Neela Santosh
+
+#OutPut:
 [final_report.pdf](https://github.com/user-attachments/files/28097254/final_report.pdf)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue) ![ReportLab](https://img.shields.io/badge/ReportLab-4.x-blue) ![Pandas](https://img.shields.io/badge/Pandas-2.x-green) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-orange) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
